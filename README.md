@@ -1,6 +1,6 @@
 # 📌 CDP Support Agent Chatbot  
 
-A simple chatbot designed to answer **"how-to"** questions related to Customer Data Platforms (CDPs) like **Segment, mParticle, Lytics, and Zeotap**.  
+A simple chatbot designed to answer **"how-to"** questions related to Customer Data Platforms (CDPs) like **Segment, mParticle, Lytics.  
 
 ## 🚀 Features  
 - ✅ **Instant Answers**: Provides quick responses to common CDP-related queries.  
@@ -18,7 +18,7 @@ A simple chatbot designed to answer **"how-to"** questions related to Customer D
 3. The bot will respond with relevant answers  
 
 ## 🌐 Live Demo  
-🔗 **[View Chatbot](https://Pavithrais.github.io/cdp-support-agent-chatbot/)** (Enable GitHub Pages to activate)  
+🔗 **[View Chatbot](https://Pavithrais.github.io/cdp-support-agent-chatbot/)**  
 
 ## 📂 Project Structure  
 📦 cdp-support-chatbot
