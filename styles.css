@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000; /* Black Background */
+}
+
+.chat-container {
+    width: 350px;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    border: 3px solid red; /* Red Border */
+}
+
+.chat-header {
+    background: blue; /* Blue Header */
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.chat-box {
+    height: 300px;
+    overflow-y: auto;
+    padding: 10px;
+    background: white;
+}
+
+.chat-box div {
+    margin: 5px 0;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.user-message {
+    background: red; /* Red User Message */
+    color: white;
+    text-align: right;
+}
+
+.bot-message {
+    background: green; /* Green Bot Response */
+    color: white;
+}
+
+input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid blue; /* Blue Input Border */
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background: blue; /* Blue Button */
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover {
+    background: red; /* Red Hover Effect */
+}
